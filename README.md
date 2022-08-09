@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/gosu-lang/gosu-lang.github.com/blob/master/img/logo-smallg.png" title="Gosu" alt="Gosu" width="40" height="40"/>&nbsp;
   <img src="https://s3-symbol-logo.tradingview.com/guidewire-software--600.png" title="Guidewire" alt="Guidewire" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
