@@ -1,8 +1,3 @@
-### Hello There 👋
-
-
-<img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" title="Hello There!" alt="Hello There!" />&nbsp;
-
 <!--
 **reinosofrancisco/reinosofrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
